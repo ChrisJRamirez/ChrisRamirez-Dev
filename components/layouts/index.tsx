@@ -21,18 +21,18 @@ const Main = ({ router, children }: Props) => {
     <Box as='main' pb={8}>
       <Head>
         <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <meta name='description' content="Shariq's homepage" />
-        <meta name='author' content='Shariq Ali' />
+        <meta name='description' content="Chris's homepage" />
+        <meta name='author' content='Chris Ramirez' />
         <link rel='apple-touch-icon' href='apple-touch-icon.png' />
         <link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
-        <meta property='og:site_name' content='Shariq Ali' />
-        <meta name='og:title' content='Shariq Ali' />
+        <meta property='og:site_name' content='Chris Ramirez' />
+        <meta name='og:title' content='Chris Ramirez' />
         <meta property='og:type' content='website' />
         <meta
           property='og:image'
-          content='https://portfolio-shariqali-dev.vercel.app/card.png'
+          content='https://portfolio-Chrisali-dev.vercel.app/card.png'
         />
-        <title>Homepage - Shariq Ali </title>
+        <title>Homepage - Chris Ramirez </title>
       </Head>
 
       <Navbar path={router.asPath} />

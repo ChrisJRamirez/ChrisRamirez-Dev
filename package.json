@@ -1,7 +1,7 @@
 {
-  "name": "shariq-portfolio",
+  "name": "Chris-portfolio",
   "version": "0.1.0",
-  "description": "Shariq's Website",
+  "description": "Chris's Website",
   "private": true,
   "scripts": {
     "dev": "next dev",

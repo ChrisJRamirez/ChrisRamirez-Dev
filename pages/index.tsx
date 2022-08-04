@@ -44,7 +44,7 @@ const Home: NextPage = () => {
         <Box display={{ md: 'flex' }}>
           <Box flexGrow={1}>
             <Heading as='h2' variant='page-title'>
-              Shariq Ali
+              Chris Ramirez
             </Heading>
             <p>Digital Craftsman (Artist / Developer / Designer)</p>
           </Box>
@@ -80,7 +80,7 @@ const Home: NextPage = () => {
             Work
           </Heading>
           <Paragraph>
-            Shariq is a full-stack developer based in New York with a passion
+            Chris is a full-stack developer based in New York with a passion
             for building digital survices/stuff he wants. He has knack for all
             things launching products, from planning and designing all the way
             to solving real-life problems with code. When not online, he loves
@@ -133,19 +133,19 @@ const Home: NextPage = () => {
           </Heading>
           <List>
             <ListItem>
-              <Link href='https://github.com/shariqali-dev' target='_blank'>
+              <Link href='https://github.com/Chrisali-dev' target='_blank'>
                 <Button
                   variant='ghost'
                   colorScheme='teal'
                   leftIcon={<IoLogoGithub />}
                 >
-                  @shariqali-dev
+                  @Chrisali-dev
                 </Button>
               </Link>
             </ListItem>
             <ListItem>
               <Link
-                href='https://www.linkedin.com/in/shariqali-dev/'
+                href='https://www.linkedin.com/in/Chrisali-dev/'
                 target='_blank'
               >
                 <Button
@@ -153,7 +153,7 @@ const Home: NextPage = () => {
                   colorScheme='teal'
                   leftIcon={<IoLogoLinkedin />}
                 >
-                  @shariqali-dev
+                  @Chrisali-dev
                 </Button>
               </Link>
             </ListItem>

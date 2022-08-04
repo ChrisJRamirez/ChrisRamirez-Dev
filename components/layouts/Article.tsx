@@ -15,7 +15,7 @@ const variants = {
 };
 
 const Layout = ({ children, title }: Props) => {
-  const t = `${title} - Shariq Ali`;
+  const t = `${title} - Chris Ramirez`;
   return (
     <motion.article
       initial='hidden'

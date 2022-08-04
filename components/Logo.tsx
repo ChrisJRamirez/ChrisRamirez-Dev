@@ -34,7 +34,7 @@ const Logo = () => {
             fontWeight='bold'
             ml={3}
           >
-            Shariq Ali
+            Chris Ramirez
           </Text>
         </LogoBox>
       </a>

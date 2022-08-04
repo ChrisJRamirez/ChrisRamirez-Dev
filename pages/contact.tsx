@@ -153,7 +153,7 @@ const Contact = () => {
                 <VStack spacing='40%' align='center'>
                   <Box>
                     <Heading size='md'>Contact</Heading>
-                    <Text>shariqali.dev@gmail.com</Text>
+                    <Text>Chrisali.dev@gmail.com</Text>
                   </Box>
                   <Box>
                     <Heading size='md'>Based in</Heading>
